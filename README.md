@@ -1,4 +1,11 @@
 # YOG Token (YOG)
+# YOG Token (YOG)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Total Supply](https://img.shields.io/badge/Total%20Supply-1%20Billion%20YOG-blue)
+![Network](https://img.shields.io/badge/Network-Binance%20Smart%20Chain-yellow)
+![Token Type](https://img.shields.io/badge/Token-BEP20-orange)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Yogcoin/YOGToken-BSC)
 
 This repository contains the smart contract code for the YOG Token deployed on Binance Smart Chain (BSC).
 
